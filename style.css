@@ -1,0 +1,66 @@
+#mainHeader{
+    width: 100%;
+    text-align: center;
+    background-image:url("images/shopping.jpeg");
+    padding: 40px;
+    font-size: 50px;
+    display: block;
+    margin: 0px;
+    color:;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#headerSearch{
+    float: right;
+    padding-top: 30px;
+    
+    
+    
+}
+#label{
+    font-size: 30px;
+}
+#listGroup{
+    display: inline-block;
+    color: black;
+    padding: 20px;
+    padding-top: 10px;
+    }
+#listItemGroup{
+    background-color: cornflowerblue;
+    margin: 0px;
+    padding: 10px;
+    height: 20px;
+}
+a:link{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    color: red;
+}
+a:visited{
+    color:red;
+}
+#mainbody{
+    margin: 20px;
+    width: 70%;
+    
+}
+#sideBar{
+
+float: right;
+display: inline-block;
+    
+}
+#sideBarGroup{
+    display: inline-block;
+   
+    
+    
+}
+#footer{
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+}
